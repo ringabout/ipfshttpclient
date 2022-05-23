@@ -1,6 +1,6 @@
 # ipfshttpclient
 
-ipfs http client implemented in Nim (wip)
+ipfs http client implemented in Nim (in progress)
 
 
 ```nim
