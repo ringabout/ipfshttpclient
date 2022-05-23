@@ -1,10 +1,10 @@
 # ipfshttpclient
 
-ipfs http client implemented in Nim (wip)
+ipfs http client implemented in Nim (in progress)
 
 
 ```nim
-import src/ipfshttpclient
+import ipfshttpclient
 import std/json
 
 var ipfs = newIpfsHttpClient()
